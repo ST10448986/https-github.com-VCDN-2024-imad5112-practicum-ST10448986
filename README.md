@@ -17,3 +17,5 @@ Installation
 
 Usage 
 This app gives quality weather data, as well as frequent temperatures, rain chances, live rader, and dreadful weather notifications 
+
+Contributing We appreciate your contributions! If there are any bug fixes or new features, kindly fork the repository and submit a pull request.
