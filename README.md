@@ -1,4 +1,5 @@
 # https-github.com-VCDN-2024-imad5112-practicum-ST10448986
+laiba alvi st10448986
 Experience the power of the advanced weather app, developed with kotlin.This comprehensive tutorial empowers you to create a dynamic and feature-rich weather application 
 Features
 . You can check the weather on a weekly basis, day after day, along with frequently weather articles/information.
@@ -19,3 +20,26 @@ Usage
 This app gives quality weather data, as well as frequent temperatures, rain chances, live rader, and dreadful weather notifications 
 
 Contributing We appreciate your contributions! If there are any bug fixes or new features, kindly fork the repository and submit a pull request.
+
+
+WEATHER APP PSEUDOCODE 
+start 
+input 
+window.onload = 
+    DISPLAY input bar  submit button
+    DISPLAY top navBar
+    HIDE main section  location, temperature, and weather condition data
+    DISPLAY weather table
+    
+IF form.value == 5 AND isNaN = false THEN
+    RETURN true
+ELSE
+    DISPLAY 'Enter valid ZIP Code'
+END IF
+IF isValid === true
+    THEN fetch API(zip)
+    updateView(userWeather)
+END IF
+    
+
+
